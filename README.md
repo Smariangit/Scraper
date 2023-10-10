@@ -1,4 +1,4 @@
-Data Science Internship Project Instructions-
+Data Science Project Instructions-
 Contents-
 1.	‘Docs’ Folder
 •	Input.xlsx
